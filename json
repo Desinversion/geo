@@ -1,12 +1,14 @@
  {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fa8787",
-        "fill": "#fa8787",
-        "stroke": "#910606",
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popup-text": "Teste"
+		"name": "Mocoa<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "Recurso <b>explotado</b>"
       },
       "geometry": {
         "type": "Point",
