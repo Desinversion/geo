@@ -6,9 +6,80 @@
         "stroke": "#910606",
         "marker-size": "medium",
         "marker-symbol": "",
-		"name": "Mocoa<br>",
-		"recurso": "Recurso explotado: <b>oro</b><br>",
-        "popup-text": "Recurso <b>explotado</b>"
+        "popup-text": ""<table class=\"table\">\n" +
+				"  <thead>\n" +
+				"    <tr>\n" +
+				"      <th scope=\"col \">MOCOA</th>\n" +
+				"    </tr>\n" +
+				"  </thead>\n" +
+				"  <tbody>\n" +
+				"    <tr>\n" +
+				"      <th scope=\"row\">Recurso explotado</th>\n" +
+				"      <td>Oro</td>\n" +
+				"    </tr>\n" +
+				"    <tr>\n" +
+				"      <th scope=\"row\">Tipo de explotación</th>\n" +
+				"      <td>Gran escala</td>\n" +
+				"    </tr>\n" +
+				"    <tr>\n" +
+				"      <th scope=\"row\">Tipo de minería</th>\n" +
+				"      <td>Ilegal</td>\n" +
+				"    </tr>\n" +
+				"    <tr>\n" +
+				"      <th scope=\"row\">Fase del proyecto</th>\n" +
+				"      <td>Exploración</td>\n" +
+				"    </tr>\n" +
+				"    <tr>\n" +
+				"      <th scope=\"row\">Empresa responsable</th>\n" +
+				"      <td>Empresa A</td>\n" +
+				"    </tr>\n" +
+				"    <tr>\n" +
+				"      <th scope=\"row\"></th>\n" +
+				"      <td><a href=\"url\">Más info</a></td>\n" +
+				"    </tr>\n" +
+				"  </tbody>\n" +
+				"</table>" +
+			"<table class=\"table\">\n" +
+					"  <thead>\n" +
+				"    <tr>\n" +
+				"      <th scope=\"col \">PRESENCIA Y PAPEL DE LA IGLESIA</th>\n" +
+				"    </tr>\n" +
+				"  </thead>\n" +
+				"  <tbody>\n" +
+				"    <tr>\n" +
+				"      <th scope=\"row\">Presencia eclesial</th>\n" +
+				"      <td>Si</td>\n" +
+				"    </tr>\n" +
+				"    <tr>\n" +
+				"      <th scope=\"row\">Jurisdicción</th>\n" +
+				"      <td>Local</td>\n" +
+				"    </tr>\n" +
+				"    <tr>\n" +
+				"      <th scope=\"row\">Diócesis</th>\n" +
+				"      <td>Diócesis A</td>\n" +
+				"    </tr>\n" +
+				"    <tr>\n" +
+				"      <th scope=\"row\">Congregaciones religiosas</th>\n" +
+				"      <td>Congregaciones</td>\n" +
+				"    </tr>\n" +
+				"    <tr>\n" +
+				"      <th scope=\"row\">Participación en el conflicto</th>\n" +
+				"      <td>Existente</td>\n" +
+				"    </tr>\n" +
+				"    <tr>\n" +
+				"      <th scope=\"row\">Empresa e Iglesia y/o pastoral social</th>\n" +
+				"      <td>No hay acercamiento</td>\n" +
+				"    </tr>\n" +
+				"    <tr>\n" +
+				"      <th scope=\"row\">Experiencia martirial</th>\n" +
+				"      <td>Existente</td>\n" +
+				"    </tr>\n" +
+				"    <tr>\n" +
+				"      <th scope=\"row\"></th>\n" +
+				"      <td><a href=\"url\">Más info</a></td>\n" +
+				"    </tr>\n" +
+				"  </tbody>\n" +
+				"</table>""
       },
       "geometry": {
         "type": "Point",
