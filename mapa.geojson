@@ -1,0 +1,52 @@
+ {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+		"name": "Mocoa<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "<table>
+	<thead>
+		<tr>
+			<th>MOCOA</th>
+		</tr>
+	</thead>
+	<tbody>
+	    <tr>
+			<th>Recurso explotado</th>
+				<td>Oro</td>
+		</tr>
+		<tr>
+			<th>Tipo de explotación</th>
+				<td>Gran escala</td>
+		</tr>
+		<tr>
+			<th>Tipo de minería</th>
+				<td>Ilegal</td>
+		</tr>
+		<tr>
+			<th>Fase del proyecto</th>
+				<td>Exploración</td>
+		</tr>
+		<tr>
+			<th>Empresa responsable</th>
+				<td>Empresa A</td>
+		</tr>
+		<tr>
+			<th></th>
+				<td><a>Más info</a></td>
+			</tr>
+	</tbody>
+</table>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64668936317155,
+		  1.1493660571653805
+        ]
+      }
+}
