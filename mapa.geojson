@@ -1,9 +1,9 @@
  {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
+        "marker-color": "#910000",
+        "fill": "#fc6f6f",
+        "stroke": "#e04a4a",
         "marker-size": "medium",
         "marker-symbol": "",
 		"name": "Mocoa<br>",
