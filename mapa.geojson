@@ -1,7 +1,7 @@
  {
       "type": "Feature",
       "properties": {
-        "marker-color": "#910000",
+        "marker-color": "##e04a4a",
         "fill": "#fc6f6f",
         "stroke": "#e04a4a",
         "marker-size": "medium",
