@@ -1,5 +1,8 @@
 {
   "type": "FeatureCollection",
+  "features": [
+    {
+  "type": "FeatureCollection",
        "type": "Feature",
       "properties": {
         "marker-color": "#d63a3a",
