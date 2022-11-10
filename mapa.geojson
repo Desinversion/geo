@@ -26,6 +26,319 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ebc934",
+        "fill": "#ebc934",
+        "stroke": "#a38a1d",
+        "marker-size": "medium",
+	 "show_on_map": true,
+        "marker-symbol": "",
+		"name": "Brasil<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "<strong>Brasil</strong><br>Organizaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.76390615694996,
+          -9.44879695348591
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ebc934",
+        "fill": "#ebc934",
+        "stroke": "#a38a1d",
+        "marker-size": "medium",
+	 "show_on_map": true,
+        "marker-symbol": "",
+		"name": "Uruguay<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "<strong>Uruguay</strong><br>Organizaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.04402594910354,
+          -32.39387512847095
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ebc934",
+        "fill": "#ebc934",
+        "stroke": "#a38a1d",
+        "marker-size": "medium",
+	 "show_on_map": true,
+        "marker-symbol": "",
+		"name": "Argentina<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "<strong>Argentina</strong><br>Organizaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.79618744540268,
+          -36.2318473017806
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ebc934",
+        "fill": "#ebc934",
+        "stroke": "#a38a1d",
+        "marker-size": "medium",
+	 "show_on_map": true,
+        "marker-symbol": "",
+		"name": "Paraguay<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "<strong>Paraguay</strong><br>Organizaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -58.00563838282778,
+          -23.018735157005494
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ebc934",
+        "fill": "#ebc934",
+        "stroke": "#a38a1d",
+        "marker-size": "medium",
+	 "show_on_map": true,
+        "marker-symbol": "",
+		"name": "Chile<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "<strong>Chile</strong><br>Organizaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -69.86967155429656,
+          -26.57478469164343
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ebc934",
+        "fill": "#ebc934",
+        "stroke": "#a38a1d",
+        "marker-size": "medium",
+	 "show_on_map": true,
+        "marker-symbol": "",
+		"name": "Bolivia<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "<strong>Bolivia</strong><br>Organizaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -64.39269380739019,
+          -16.9282331911577
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ebc934",
+        "fill": "#ebc934",
+        "stroke": "#a38a1d",
+        "marker-size": "medium",
+	 "show_on_map": true,
+        "marker-symbol": "",
+		"name": "Peru<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "<strong>Peru</strong><br>Organizaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.52677138096749,
+          -10.044869713719692
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ebc934",
+        "fill": "#ebc934",
+        "stroke": "#a38a1d",
+        "marker-size": "medium",
+	 "show_on_map": true,
+        "marker-symbol": "",
+		"name": "Ecuador<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "<strong>Ecuador</strong><br>Organizaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.27418762038234,
+          -1.0280111463972617
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ebc934",
+        "fill": "#ebc934",
+        "stroke": "#a38a1d",
+        "marker-size": "medium",
+	 "show_on_map": true,
+        "marker-symbol": "",
+		"name": "Colombia<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "<strong>Colombia</strong><br>Organizaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.71496265766196,
+          3.3967403293801794
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ebc934",
+        "fill": "#ebc934",
+        "stroke": "#a38a1d",
+        "marker-size": "medium",
+	 "show_on_map": true,
+        "marker-symbol": "",
+		"name": "Venezuela<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "<strong>Venezuela</strong><br>Organizaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.60234853298319,
+          7.849957097897587
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ebc934",
+        "fill": "#ebc934",
+        "stroke": "#a38a1d",
+        "marker-size": "medium",
+	 "show_on_map": true,
+        "marker-symbol": "",
+		"name": "Guyana<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "<strong>Guyana</strong><br>Organizaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.058543900432596,
+          5.635867756065721
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ebc934",
+        "fill": "#ebc934",
+        "stroke": "#a38a1d",
+        "marker-size": "medium",
+	 "show_on_map": true,
+        "marker-symbol": "",
+		"name": "Suriname<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "<strong>Suriname</strong><br>Organizaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.805982253987224,
+          3.892167156390215
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ebc934",
+        "fill": "#ebc934",
+        "stroke": "#a38a1d",
+        "marker-size": "medium",
+	 "show_on_map": true,
+        "marker-symbol": "",
+		"name": "French Guiana<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "<strong>French Guiana</strong><br>Organizaciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.094972349089915,
+          4.312473810197133
+        ]
+      }
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "type": "FeatureCollection",
+       "type": "Feature",
+      "properties": {
+        "marker-color": "#d63a3a",
+        "fill": "#fc6f6f",
+        "stroke": "#e04a4a",
+        "marker-size": "medium",
+	 "show_on_map": true,
+        "marker-symbol": "",
+		"name": "Mocoa<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "<table><thead><tr><th>MOCOA</th></tr></thead><tbody><tr><th>Recurso explotado</th><td>Oro</td></tr><tr><th>Tipo de explotación</th><td>Gran escala</td></tr><tr><th>Tipo de minería</th><td>Ilegal</td></tr><tr><th>Fase del proyecto</th><td>Exploración</td></tr><tr><th>Empresa responsable</th><td>Empresa A</td></tr><tr><th></th><td><a>Más info</a></td></tr></tbody></table>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64668936317155,
+		  1.1493660571653805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-color": "#d63a3a",
         "fill": "#fc6f6f",
         "stroke": "#e04a4a",
@@ -46,5 +359,3 @@
     }
   ]
 }
-
-
