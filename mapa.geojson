@@ -13,13 +13,35 @@
         "marker-symbol": "",
 		"name": "Mocoa<br>",
 		"recurso": "Recurso explotado: <b>oro</b><br>",
-        "popup-text": "<table><thead><tr><th>MOCOA</th></tr></thead><tbody><tr><th>Recurso explotado</th><td>Oro</td></tr><tr><th>Tipo de explotación</th><td>Gran escala</td></tr><tr><th>Tipo de minería</th><td>Ilegal</td></tr><tr><th>Fase del proyecto</th><td>Exploración</td></tr><tr><th>Empresa responsable</th><td>Empresa A</td></tr><tr><th></th><td><a>Más info</a></td></tr></tbody></table>"
+        "popup-text": "<table><thead><tr><th>MOCOA</th></tr></thead><tbody><tr><th>Recurso explotado</th><td>Oro, Cobre, Molibdeno</td></tr><tr><th>Tipo de explotación</th><td>Gran escala, Mediana</td></tr><tr><th>Tipo de minería</th><td>Legal, Informal</td></tr><tr><th>Fase del proyecto</th><td>Exploración</td></tr><tr><th>Empresa responsable</th><td>Libero Cooper y Anglo Gold Ashanti</td></tr><tr><th></th><td><a>Más info</a></td></tr></tbody></table><table><thead><tr><th>PRESENCIA Y PAPEL DE LA IGLESIA</th></tr></thead><tbody><tr><th>Presencia eclesial</th><td>Si</td></tr><tr><th>Jurisdicción</th><td>Mocoa - Colombia</td></tr><tr><th>Diócesis</th><td>Diocesis de Mocoa - Colombia</td></tr><tr><th>Congregaciones religiosas</th><td>No hay otras Iglesias que estén acompanando la resistencia.</td></tr><tr><th>Empresa e Iglesia y/o pastoral social</th><td>Si</td></tr><tr><th>Experiencia martirial</th><td>Inexistente</td></tr><tr><th></th><td><a>Más info</a></td></tr></tbody></table>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.64668936317155,
 		  1.1493660571653805
+        ]
+      }
+    },
+	{
+  "type": "FeatureCollection",
+       "type": "Feature",
+      "properties": {
+        "marker-color": "#d63a3a",
+        "fill": "#fc6f6f",
+        "stroke": "#e04a4a",
+        "marker-size": "medium",
+		"type": "case",
+        "marker-symbol": "",
+		"name": "Jachal - San Juan<br>",
+		"recurso": "Recurso explotado: <b>oro</b><br>",
+        "popup-text": "<table><thead><tr><th>JACHAL - SAN JUAN</th></tr></thead><tbody><tr><th>Recurso explotado</th><td>Oro, Cobre</td></tr><tr><th>Tipo de explotación</th><td>Gran escala</td></tr><tr><th>Tipo de minería</th><td>Legal</td></tr><tr><th>Fase del proyecto</th><td>Explotación</td></tr><tr><th>Empresa responsable</th><td>Barrick Gold y China Shandong Gold</td></tr><tr><th></th><td><a>Más info</a></td></tr></tbody></table><table><thead><tr><th>PRESENCIA Y PAPEL DE LA IGLESIA</th></tr></thead><tbody><tr><th>Presencia eclesial</th><td>Si</td></tr><tr><th>Jurisdicción</th><td>Provincia de San Juan</td></tr><tr><th>Diócesis</th><td> </td></tr><tr><th>Congregaciones religiosas</th><td>No hay informacion.</td></tr><tr><th>Empresa e Iglesia y/o pastoral social</th><td>No</td></tr><tr><th>Experiencia martirial</th><td>No hay informacion</td></tr><tr><th></th><td><a>Más info</a></td></tr></tbody></table>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          	-29.343732590857513,
+			-69.96027560893458
         ]
       }
     },
